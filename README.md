@@ -14,7 +14,7 @@
 | **Kaushik Raju S** | 1MV23IC046 |
 | **Nandeesha B** | 1MV23IC035 |
 
-**Guide:** Ms. N Umamaheswari, Assistant Professor, Dept. of CSE
+**Guide:** Ms. Ganashri, Assistant Professor, Dept. of CSE(IOT)
 
 ---
 
@@ -133,8 +133,8 @@ data/
 
 ### Recommended Datasets
 
-1. **FaceForensics++** - https://github.com/ondyari/FaceForensics
-2. **Deepfake Detection Challenge (DFDC)** - Kaggle Competition
+1. **CIFAKE** - Kaggle
+2. **DEEPFAKE AND REAL IMAGES** - Kaggle 
 3. **Celeb-DF** - Celebrity deepfake dataset
 4. **UADFV** - Smaller dataset for beginners (49 real + 49 fake)
 
@@ -534,7 +534,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 🙏 Acknowledgements
 
-- **Guide:** Ms. N Umamaheswari, Assistant Professor, Dept. of CSE
+- **Guide:** Ms. Ganashri, Assistant Professor, Dept. of CSE(IOT)
 - **HOD:** Dr. T. N. Anitha, Department of Computer Science and Engineering
 - **Principal:** Dr. Rakesh S G, Sir M Visvesvaraya Institute of Technology
 - **Dataset Sources:** FaceForensics++, DFDC, Celeb-DF
