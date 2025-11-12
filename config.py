@@ -18,7 +18,7 @@ class Config:
     LOGS_PATH = os.path.join(BASE_DIR, 'logs')
     
     # Image parameters
-    IMG_SIZE = 224
+    IMG_SIZE = 380
     CHANNELS = 3
     FRAMES_PER_VIDEO = 10  # Extract 10 frames from each video
     
